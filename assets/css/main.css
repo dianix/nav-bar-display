@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ul {
+    background-color: gray;
+    font-family: sans-serif;
+}
+
+li {
+    display: inline-block;
+    padding: 20px;
+    list-style: none;    
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 10px;    
+}
+
+a:hover {
+    color: chartreuse;
+}
+
+span {
+    color: #ffbd29;
+}
